@@ -34,7 +34,7 @@ pip install .
 In order to train your agent and test your agent, all you have to do is the following:
 
 ```
-python main.py
+python train.py
 ```
 
 
